@@ -11,6 +11,6 @@ int main(){
     printf("Digite un valor entero que le guste: ");
     scanf("%d", &valor);
 
-    printf("El valor que usted proporciono es el: %d" valor);
+    printf("El valor que usted proporciono es el: %d", valor);
     return 0;
 }
